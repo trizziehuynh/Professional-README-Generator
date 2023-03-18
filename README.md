@@ -30,4 +30,6 @@ THEN I am taken to the corresponding section of the README
 
 [Application Index](index.js)
 
+[Example Readme](CustomREADME.md)
+
 ![Demo](README%20Generator.png)

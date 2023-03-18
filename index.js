@@ -90,7 +90,7 @@ ${data.test}
 
 If you have futher questions, please reach out to me via email.
 
-- [GitHub](${data.user})
+- [GitHub](${data.username})
 - [Email](${data.email})
 
     `;

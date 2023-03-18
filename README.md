@@ -29,3 +29,5 @@ THEN I am taken to the corresponding section of the README
 [Walk Through Video](https://drive.google.com/file/d/1QkwwrLKUfKFnn-EIyP06OGLkLG-cs5A5/view?usp=sharing)
 
 [Application Index](index.js)
+
+![Demo](README%20Generator.png)
